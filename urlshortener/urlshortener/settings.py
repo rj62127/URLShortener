@@ -27,6 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['ec2-44-199-137-71.compute-1.amazonaws.com', 'ec2-44-199-137-71.compute-1.amazonaws.com:8000']
 
+#ALLOWED_HOSTS = []
+
 
 
 # Application definition
